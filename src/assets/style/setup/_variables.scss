@@ -1,0 +1,41 @@
+$clr-primary: #0D0D2B;
+$clr-primary-light: #1F1F3C;
+$clr-primary-dark: #0A0A1A;
+$clr-bg: #0F111A;
+
+$clr-txt: #E1E1E1;
+$clr-white: #ffffff;
+
+$clr-accent-1: #5EDFFF; // Neon cyan
+$clr-accent-1-filter: brightness(0) saturate(100%) invert(82%) sepia(28%) saturate(1955%) hue-rotate(164deg) brightness(101%) contrast(102%);
+
+$clr-accent-2: #FF56F6; // Vibrant pink
+$clr-accent-2-filter: brightness(0) saturate(100%) invert(39%) sepia(87%) saturate(7498%) hue-rotate(281deg) brightness(103%) contrast(108%);
+
+$clr-accent-3: #845EF7; // Deep violet
+$clr-accent-4: #845ef761; // Deep violet
+$clr-accent-3-filter: brightness(0) saturate(100%) invert(47%) sepia(75%) saturate(2274%) hue-rotate(239deg) brightness(99%) contrast(101%);
+
+$clr-soft-blue: #96C5F1;
+$clr-soft-blue-filter: brightness(0) saturate(100%) invert(91%) sepia(3%) saturate(177%) hue-rotate(193deg) brightness(92%) contrast(89%);
+
+$clr-soft-purple: #B8A9F4;
+$clr-soft-purple-filter: brightness(0) saturate(100%) invert(87%) sepia(8%) saturate(1701%) hue-rotate(229deg) brightness(96%) contrast(94%);
+
+$clr-soft-cyan: #A8EDF0;
+$clr-soft-cyan-filter: brightness(0) saturate(100%) invert(86%) sepia(21%) saturate(659%) hue-rotate(142deg) brightness(101%) contrast(91%);
+
+$clr-dark-grey: #444444;
+$clr-dark-grey-filter: grayscale(1) brightness(0.3);
+
+$clr-muted-grey: #757575;
+$clr-muted-grey-filter: grayscale(0.8) brightness(0.6);
+
+$clr-bg-filter: brightness(0) saturate(100%) invert(6%) sepia(15%) saturate(743%) hue-rotate(200deg) brightness(95%) contrast(91%);
+$clr-txt-filter: brightness(0) saturate(100%) invert(92%) sepia(1%) saturate(8%) hue-rotate(119deg) brightness(107%) contrast(93%);
+
+$clr-header: #1F1F3C;
+$clr-header-filter: brightness(0) saturate(100%) invert(10%) sepia(4%) saturate(1888%) hue-rotate(201deg) brightness(95%) contrast(87%);
+
+$clr-footer: #111119;
+$clr-footer-filter: brightness(0) saturate(100%) invert(6%) sepia(5%) saturate(899%) hue-rotate(212deg) brightness(91%) contrast(91%);
